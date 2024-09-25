@@ -6,3 +6,5 @@ lijst_dieren.extend(["Giraffe","Olifant"])
 lijst_dieren.insert(0,"Slang")
 
 print(lijst_dieren)
+#code aangepast
+print(lijst_dieren)
